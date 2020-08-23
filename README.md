@@ -1,3 +1,5 @@
+In order to run this project correctrly, you need to open two terminals in 'api' and 'client' directories and run 'npm start' in both directories
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
