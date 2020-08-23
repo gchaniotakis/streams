@@ -3,11 +3,13 @@
     {
       "title": "Initial Stream",
       "description": "My first stream",
+      "userId": "110087631466831095010",
       "id": 1
     },
     {
       "title": "Second stream",
       "description": "Second stream",
+      "userId": "110087631466831095010",
       "id": 2
     },
     {
@@ -23,10 +25,16 @@
       "id": 4
     },
     {
-      "title": "Navigation",
-      "description": "This will probably navigate me to home page after creating ",
+      "title": "Patch",
+      "description": "Attempting PATCH Request",
       "userId": "110087631466831095010",
       "id": 5
+    },
+    {
+      "title": "Edited",
+      "description": "This was edited",
+      "userId": "110087631466831095010",
+      "id": 6
     }
   ]
 }
